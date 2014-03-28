@@ -19,12 +19,12 @@ GET/POST-запросы, отправка данных формы. Пример�
 Таски
 -----
 
-[*picoCTF*](https://picoctf.com/problems)
+[**picoCTF**](https://picoctf.com/problems)
 - First Contact 40 (pcap)
 > You notice that the indicator light near the robot’s antenna begins to blink. Perhaps the robot is connecting to a network? Using a wireless card and the network protocol analyzer Wireshark, you are able to create a PCAP file containing the packets sent over the network.
-
+>
 > You suspect that the robot is communicating with the crashed ship. Your goal is to find the location of the ship by inspecting the network traffic.
-
+>
 > You can perform the analysis online on [Cloudshark](http://www.cloudshark.org/captures/bc1c0a7fae2c)
 or you can download the [PCAP file](https://picoctf.com/problems/first_contact.pcap).
 
@@ -32,6 +32,7 @@ or you can download the [PCAP file](https://picoctf.com/problems/first_contact.p
 > There's bound to be a key on the spaceport's [hidden website](https://picoctf.com/problems/getquery/index.php)
 
 - Yummy 60 (requests)
+
 > You want to find out the docking bay numbers for space ships that are ready to launch. Luckily for you, [the website](https://picoctf.com/problems/yummy) for the docking bay ship status page doesn't seem so secure....
 
 > Enter the docking bay for any of the ships that are awaiting launch.
@@ -49,7 +50,7 @@ or you can download the [PCAP file](https://picoctf.com/problems/first_contact.p
 - Injection 110 (sql) (я ещё не решил её)
 - PHP4 (sql)
 
-[*ufoCTF*](http://ufologists.ictis.sfedu.ru/game) (осторожно, ufoCTF идёт только до конца марта)
+[**ufoCTF**](http://ufologists.ictis.sfedu.ru/game) (осторожно, ufoCTF идёт только до конца марта)
 - Ping (pcap)
 - PRISM (pcap)
 - Телепорты (requests)
@@ -61,9 +62,8 @@ or you can download the [PCAP file](https://picoctf.com/problems/first_contact.p
 Материалы
 ---------
 
-[Web Security Pitfalls](https://www.cis.upenn.edu/~cis331/proj2.pdf)
+[Web Security Pitfalls](https://www.cis.upenn.edu/~cis331/proj2.pdf) - включает задания по SQL, XSS и CSRF
 
 [Безопасность веб-приложений (Тарас Иващенко, ШРИ)](http://tech.yandex.ru/education/shri/msk-2012/talks/540/)
 
 [Продвинутая презентация по SQL-инъекциям](http://www.ptsecurity.ru/download/PT-devteev-Advanced-SQL-Injection.pdf)
-
